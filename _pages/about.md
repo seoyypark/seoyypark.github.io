@@ -13,4 +13,4 @@ I am a M.S. student at Graduate School of Culture Technology, Korea Advanced Ins
 
 Research intersts: Computational Social Science, Science of Science, Complex Systems, Network Science, Data Science
 
-[[CV]](/files/cv-202412.pdf)(Updated: December 20, 2024)
+[[CV]](/files/CV_20250418.pdf)(Updated: April 18, 2025)
